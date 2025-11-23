@@ -2,7 +2,7 @@
 
 ## 📖 写在前面
 
-*   会读这些的多半是中国学生，就用中文写了。至于编码乱码什么的，都有能力摸到这个仓库了，小问题就自己解决吧。
+*   会读这些的多半是中国学生，就用中文写了。
 *   目前这个仓库是私有状态，后续我会择期转为公共库。
 *   GitHub 上已经有往届学姐发过自己的设计：[yuwenluopie/Basys3-VGAsignal](https://github.com/yuwenluopie/Basys3-VGAsignal)
     *   感谢学姐 `ywl` 开源，感谢同学 `PDwly` 开源（拜谢）。
